@@ -81,7 +81,6 @@ export default class NavbarComp extends Component {
           <Switch>
           <Route path="/ECE444-Lab1">
             <p> Christian Zeni </p>
-              <SearchResultDisplay />
             </Route>
           <Route path="/about">
             <div className = "body_text">
